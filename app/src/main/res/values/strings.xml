@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Smart Virtual Assistant</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Username</string>
+    <string name="nav_header_subtitle">email@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="Summary">Summary</string>
+    <string name="About">about</string>
+    <string name="Rating">rating</string>
+    <string name="SOS">sos</string>
+    <string name="ProfilesetUp">ProfileSetup</string>
+    <string name="Profile">Profile</string>
+    <string name="findfriend">FindFriend</string>
+    <string name="Posts">Posts</string>
+    <string name="map_API">AIzaSyCRByvxS6sbpg51yRLpgnLS0R51SDV2usE</string>
+
+
+</resources>
